@@ -1355,7 +1355,7 @@ An additional optimization strategy is layer normalization[fn:6].
 
 This deviates from the paper, as we apply it before transformation (~FeedForward~).
 
-* Final Product
+* Final Result
 
 This is the final result, after following the video. For an updated implementation, see nanoGPT[fn:8].
 
